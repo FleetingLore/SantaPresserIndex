@@ -8,3 +8,11 @@ Choose your default language to continue.
 English(US) == en-us
 
 中文(简体) == zh-cn
+
+---
+
+ToolChain
+
+lore pages == https://github.com/dotCorain/lore-pages
+
+ducia listing == https://github.com/FleetingLore/ducia-listing-framework
