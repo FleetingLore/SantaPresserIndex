@@ -7,8 +7,8 @@ comment_key = "%"
 comment_key_escape = "\\%"
 breakline_key = "---"
 breakline_key_escape = "\\---"
-image_key = "|"
-image_key_escape = "\\|"
+image_key = "[]"
+image_key_escape = "\\[]"
 placeholder_key = "_"
 placeholder_key_escape = "\\_"
 inner_open_key = "-"
@@ -21,12 +21,11 @@ inner_lore_key = "=="
 inner_lore_key_escape = "\\=="
 
 [renderer]
-site_title = "lore-pages-example"
+site_title = "Santa Presser Index"
 from_lore_path = "./src"
 to_html_path = "./docs-target"
 lang = "en-US"
-link_base = "https://fleetinglore.github.io/lore-pages-example"
+link_base = "https://fleetinglore.github.io/SantaPresserIndex"
 scripts = [
     "https://fleetinglore.github.io/lore-pages-src/default/main.js",
-    "https://fleetinglore.github.io/lore-pages-src/mathjax/main.js",
 ]
